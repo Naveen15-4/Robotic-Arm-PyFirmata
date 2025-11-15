@@ -5,15 +5,17 @@ This project details the construction and control of a 3D-printed, 6-degree-of-f
 The control script allows for direct keyboard mapping to each servo, as well as a "Record & Playback" feature to save and repeat movements.
 Note : Since the base of the arm is lightweight, it tends to tip over at full extension (happens in the video demo). I recommend adding some sort of ballast (e.g., Powerbank) to give it stability.
 
+Note: This is an ongoing project, I have planned to incoporate Gemini's Robot Vision model to this arm.
+
 ---
 
 ## Visuals
 
 ** Assembling the Arm**
-![Arm](results/)
+![Arm](Demo/builing_the_arm.jpg)
 
 **Short working demo**
-![Working Demo](results/)
+![Working Demo](/Demo/Working_Arm.mp4)
 
 ``
 
