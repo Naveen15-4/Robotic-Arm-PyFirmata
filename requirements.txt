@@ -1,0 +1,24 @@
+Software:
+
+Python 3.9+
+
+PyFirmata
+
+Arduino IDE
+
+StandardFirmataPlus firmware uploaded to Arduino
+
+
+Hardware Used:
+
+Arduino Uno
+
+6× SG90 / MG996R servos (depending on torque needs)
+
+External power supply for servos
+
+Jumper wires, breadboard
+
+USB cable for Arduino
+
+3D-printed robotic arm model
