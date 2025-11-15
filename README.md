@@ -29,7 +29,7 @@ Link to video: https://drive.google.com/file/d/1_vWtYNRWYJmLAz50ZfHUF_piOmAfnYBo
 
 ## 1. Hardware Requirements
 
-* **3D Printed Arm:** Parts from [this MakerWorld model by Lylio](https://makerworld.com/en/models/1134925-robotic-arm-with-servo-arduino#profileId-1135927).
+* **3D Printed Arm
 * **Arduino:** An Arduino Uno, Nano, or any compatible board.
 * **Servos:** 7 x servo motors (e.g., MG90S or SG90). The number and type depend on your arm build.
 * **Power Supply:** An external 5V power supply for the servos (recommended, as USB power is often insufficient).
@@ -37,9 +37,9 @@ Link to video: https://drive.google.com/file/d/1_vWtYNRWYJmLAz50ZfHUF_piOmAfnYBo
 
 ## 2. Software Requirements
 
-* **Python 3:** [Download from python.org](https://www.python.org/)
+* **Python 3:
 * **Python Libraries:** `pyfirmata`
-* **Arduino IDE:** [Download from arduino.cc](https://www.arduino.cc/en/software)
+* **Arduino IDE
 
 ---
 
