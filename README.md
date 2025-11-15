@@ -18,8 +18,6 @@ Note: This is an ongoing project, I have planned to incoporate Gemini's Robot Vi
 **Short working demo**
 Link to video: https://drive.google.com/file/d/1_vWtYNRWYJmLAz50ZfHUF_piOmAfnYBo/view?usp=sharing 
 
-``
-
 ## Features
 
 * **Real-time Keyboard Control:** Each joint is mapped to keyboard keys for intuitive movement.
