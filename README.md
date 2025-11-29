@@ -16,7 +16,7 @@ Note: This is an ongoing project, I have planned to incoporate Gemini's Robot Vi
 
 
 **Short working demo**
-Link to video: https://drive.google.com/file/d/1_vWtYNRWYJmLAz50ZfHUF_piOmAfnYBo/view?usp=sharing 
+(Working_arm1.mp4) 
 
 ## Features
 
