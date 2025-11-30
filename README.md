@@ -15,8 +15,15 @@ Note: This is an ongoing project, I have planned to incoporate Gemini's Robot Vi
 ![Arm](Demo/builing_the_arm.jpg)
 
 
+
+**Denavit–Hartenberg Convention**
+![DH Representation Arm](Demo/Model_DH_Rep.jpg)
+
+
 **Short working demo**
 Link to Video : "https://drive.google.com/file/d/1_vWtYNRWYJmLAz50ZfHUF_piOmAfnYBo/view?usp=sharing" 
+
+
 
 ## Features
 
